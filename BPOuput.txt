@@ -1,0 +1,6 @@
+
+Enter the number of people: 26
+
+Percentage chance is 59.1200
+
+

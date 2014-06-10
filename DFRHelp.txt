@@ -1,0 +1,17 @@
+To find all the duplicate files in the system contentwise.(java prog.)
+  
+output:
+           1)list of all duplicate file.
+          2)total number of file.
+          3)number of comparision.
+          4) number of duplicate files.
+steps:
+         1)Retrive all the files from system.
+        2)files are sorted by size and group by file type.
+        3)compare two files if and only if both the file having same type and same size.
+
+steps to run the prog.
+        1)javac DupFileRemover.java
+       2)java DupFileRemover
+
+
