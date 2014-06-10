@@ -1,0 +1,38 @@
+F:\file1.txt is same as F:\file6.txt
+D:\preload\Reserve.log is same as D:\RM_Reserve\Reserve.log
+F:\study\tcpreplay-4.0.4\src\tcpedit\plugins\dlt_jnpr_ether\jnpr_ether_opts.def is same as F:\study\tcpreplay-4.0.4\src\tcpedit\plugins\dlt_pppserial\pppserial_opts.def
+F:\study\tcpreplay-4.0.4\src\tcpedit\plugins\dlt_ieee80211\ieee80211_opts.def is same as F:\study\tcpreplay-4.0.4\src\tcpedit\plugins\dlt_loop\loop_opts.def
+F:\study\tcpreplay-4.0.4\src\tcpedit\plugins\dlt_ieee80211\ieee80211_opts.def is same as F:\study\tcpreplay-4.0.4\src\tcpedit\plugins\dlt_radiotap\radiotap_opts.def
+F:\study\tcpreplay-4.0.4\src\tcpedit\plugins\dlt_loop\loop_opts.def is same as F:\study\tcpreplay-4.0.4\src\tcpedit\plugins\dlt_radiotap\radiotap_opts.def
+D:\boot\Desktop.ini is same as D:\EFI\Desktop.ini
+D:\boot\Desktop.ini is same as D:\hp\Desktop.ini
+D:\boot\Desktop.ini is same as D:\preload\Desktop.ini
+D:\boot\Desktop.ini is same as D:\recovery\Desktop.ini
+D:\boot\Desktop.ini is same as D:\RM_Reserve\Desktop.ini
+D:\EFI\Desktop.ini is same as D:\hp\Desktop.ini
+D:\EFI\Desktop.ini is same as D:\preload\Desktop.ini
+D:\EFI\Desktop.ini is same as D:\recovery\Desktop.ini
+D:\EFI\Desktop.ini is same as D:\RM_Reserve\Desktop.ini
+D:\hp\Desktop.ini is same as D:\preload\Desktop.ini
+D:\hp\Desktop.ini is same as D:\recovery\Desktop.ini
+D:\hp\Desktop.ini is same as D:\RM_Reserve\Desktop.ini
+D:\preload\Desktop.ini is same as D:\recovery\Desktop.ini
+D:\preload\Desktop.ini is same as D:\RM_Reserve\Desktop.ini
+D:\recovery\Desktop.ini is same as D:\RM_Reserve\Desktop.ini
+F:\file3.xlsx is same as F:\file4.xlsx
+D:\boot\Fonts\segmono_boot.ttf is same as D:\EFI\Microsoft\Boot\Fonts\segmono_boot.ttf
+D:\boot\Fonts\wgl4_boot.ttf is same as D:\EFI\Microsoft\Boot\Fonts\wgl4_boot.ttf
+D:\boot\Fonts\segoe_slboot.ttf is same as D:\EFI\Microsoft\Boot\Fonts\segoe_slboot.ttf
+D:\boot\Fonts\meiryo_boot.ttf is same as D:\EFI\Microsoft\Boot\Fonts\meiryo_boot.ttf
+D:\boot\Fonts\msyh_boot.ttf is same as D:\EFI\Microsoft\Boot\Fonts\msyh_boot.ttf
+D:\boot\Fonts\msjh_boot.ttf is same as D:\EFI\Microsoft\Boot\Fonts\msjh_boot.ttf
+D:\boot\Fonts\malgun_boot.ttf is same as D:\EFI\Microsoft\Boot\Fonts\malgun_boot.ttf
+F:\Question paper\TE_2008_PATTERN-1.pdf is same as F:\Question paper\TE_2008_PATTERN.pdf
+D:\preload\INSTALL.LOG is same as D:\RM_Reserve\INSTALL.LOG
+D:\boot\Fonts\jpn_boot.ttf is same as D:\EFI\Microsoft\Boot\Fonts\jpn_boot.ttf
+D:\boot\Fonts\kor_boot.ttf is same as D:\EFI\Microsoft\Boot\Fonts\kor_boot.ttf
+D:\boot\Fonts\chs_boot.ttf is same as D:\EFI\Microsoft\Boot\Fonts\chs_boot.ttf
+D:\boot\Fonts\cht_boot.tt fis same as D:\EFI\Microsoft\Boot\Fonts\cht_boot.ttf
+total file(s):867
+total comparision(s):602
+total duplicate file(s)35
