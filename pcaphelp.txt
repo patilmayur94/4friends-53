@@ -1,0 +1,6 @@
+Steps to run programs : 
+
+1.  Compilation: gcc -c one.c -lpcap
+2.  Execution 1: ./a.out bgp.pcap
+
+
